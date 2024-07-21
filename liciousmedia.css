@@ -1,0 +1,123 @@
+@media only screen and (max-width: 500px) {
+
+
+.main-log{
+    /* display: none; */
+    width: 80px;
+}
+.search-bar{
+    display: none; 
+   
+
+}
+.header-section{
+    display: none;
+
+}
+.location-name{
+    width: 70px;
+}
+.img-section img{
+    width: 110%;
+    height: 200px;
+    object-fit: fill;
+    border-radius:20px;
+}
+.card-section{
+    width: 100%;
+    margin-top: 20px;
+    gap: 20px;
+}
+.card-img img{
+    width: 60px;
+    height: 60px;
+}
+.text{
+    font-size: 12px;
+    width: 60px;
+}
+.Breakfast-iteams{
+    width: 400px;
+    /* background-color: aqua; */
+    overflow-x: scroll;
+    /* display: flex;
+    flex-wrap: nowrap;
+    flex-direction: column; */
+}
+
+.Breakfast-img{
+    width: 100px;
+    height: 100px;
+
+    
+}
+.card-text{
+    font-size: 14px;
+}
+.card-sub-text{
+    font-size: 14px;
+}
+.speacial-breakfast-crad{
+    width: 150px;
+    /* height: 200px; */
+    /* background-color: blueviolet; */
+
+}
+.end-paragraph{
+    display: flex;
+    flex-direction: column;
+    height: 870px;
+    
+}
+.end-ptext{
+    margin-left: 20px;
+}
+
+.footer-container-section-2{
+    width: 350px;
+    display: flex;
+    flex-direction: column;
+    height: 800%;
+    flex-direction: column-reverse;
+
+}
+.footer-container {
+    width: 100%;
+    height: 830px;
+}
+.footer-middel-section{
+    width: 220PX;
+    height: 400px;
+}
+.footer-mini-middel-section{
+    font-size: 12px;
+    width: 300px;
+    
+
+}
+.footer-middel-img-section img{
+    width: 120px;
+}
+.footer-middel-section-mdl{
+    width: 200px;
+    display: flex;
+
+
+}   
+.footer-cities-section{ 
+    height: 470px;
+    width: 100%;
+}
+.cities-heading{
+    width: 150px;
+}
+.cities-weseve{
+    width: 100%;
+}
+.popular-searches{
+    height: 1210px;
+}
+.footer-end{
+    font-size: 13px;
+}
+}
